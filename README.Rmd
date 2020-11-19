@@ -4,7 +4,7 @@ output: github_document
 
 # Github_pages_trial
   
-This is my first package
+This is my first [package](https://github.com/bijoychandraAU/manipur/)
 
 <center>
 

@@ -1,7 +1,7 @@
 
 # Github\_pages\_trial
 
-This is my first package
+This is my first [package](https://github.com/bijoychandraAU/manipur/)
 
 <center>
 
@@ -19,7 +19,7 @@ Manipur](https://miro.medium.com/max/1392/0*as9cP264eK7RW943.jpg)
 
 <center>
 
-🙈 😄 🐵
+🤒 😄 😅
 
 </center>
 

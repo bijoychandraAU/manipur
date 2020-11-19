@@ -1,16 +1,28 @@
 ---
-output: github_document
+title: "HW1_exer1.Rmd"
+date: "9/14/2020"
+output:
+  html_document:
+    number_sections: yes
+  pdf_document: default
 ---
 
-# Github_pages_trial
-  
-This is my first package
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Takhellambam Bijoychandra Singh
+
+## Picture
 
 <center>
 
 ![Picture:Loktak Lake (floating), Manipur](http://worldkings.org/Userfiles/Upload/images/1612z5.jpg)
 
 </center>
+
 
 ##  Quote
 
@@ -29,5 +41,10 @@ This is my first package
 ![Gif: Up On Poppy Hill Umi Matsuzaki](https://media.tenor.com/images/d5ea6ffc92c0246037a478f01bc22f17/tenor.gif)
 
 
+
+
+
+
+## References
 
 

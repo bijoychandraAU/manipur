@@ -19,7 +19,7 @@ Manipur](http://worldkings.org/Userfiles/Upload/images/1612z5.jpg)
 
 <center>
 
-😭 😄 🤥
+😡 😄 🐽
 
 </center>
 

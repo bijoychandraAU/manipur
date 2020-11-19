@@ -6,7 +6,7 @@ This is my first package
 <center>
 
 ![Picture:Loktak Lake (floating),
-Manipur](http://worldkings.org/Userfiles/Upload/images/1612z5.jpg)
+Manipur](https://miro.medium.com/max/1392/0*as9cP264eK7RW943.jpg)
 
 </center>
 
@@ -19,7 +19,7 @@ Manipur](http://worldkings.org/Userfiles/Upload/images/1612z5.jpg)
 
 <center>
 
-😡 😄 🐽
+🙈 😄 🐵
 
 </center>
 

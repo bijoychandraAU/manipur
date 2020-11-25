@@ -19,13 +19,13 @@ Manipur](https://miro.medium.com/max/1392/0*as9cP264eK7RW943.jpg)
 
 <center>
 
-🤒 😄 😅
+🐴 😄 🤩
 
 </center>
 
-## Giphy
+## Video
 
-<center>
+Target NEET 2021 || L6|| Electric Field & Force
+[link](https://www.youtube.com/watch?v=kQlrmSbKKdk).
 
-![Gif: Up On Poppy Hill Umi
-Matsuzaki](https://media.tenor.com/images/d5ea6ffc92c0246037a478f01bc22f17/tenor.gif)
+Here is the video [link](https://www.youtube.com/embed/QAoqPQFXFqI).
